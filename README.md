@@ -1,5 +1,6 @@
 # LeadBookT16-Bocconi-OC0.8.8-Monterey黑苹果
-
+下载地址[
+](https://www.123pan.com/s/gUocVv-KRDKv.html提取码:lstu)
 参考作者
 [**English**](https://github.com/XingKong746/RedmiBook16-Hackintosh/blob/master/en.md)
 (https://github.com/XingKong746)
